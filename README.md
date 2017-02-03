@@ -6,6 +6,8 @@ Image_manager is an extra field for [Laravel Backpack Admin Panel](https://backp
 
 ## Good to know
 
+**Alpha version! Not working correctly**
+
 Actually, this field just works in edit form.
 
 ## Install
